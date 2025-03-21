@@ -1,0 +1,66 @@
+17:39:31  [main] 	Initializing Control Panel
+17:39:32  [main] 	Windows Version:  Home  64-bit
+17:39:32  [main] 	XAMPP Version: ???
+17:39:32  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+17:39:32  [main] 	You are not running with administrator rights! This will work for
+17:39:32  [main] 	most application stuff but whenever you do something with services
+17:39:32  [main] 	there will be a security dialogue or things will break! So think 
+17:39:32  [main] 	about running this application with administrator rights!
+17:39:32  [main] 	XAMPP Installation Directory: "c:\users\mayur\onedrive\desktop\get it\"
+17:39:32  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+17:39:32  [main] 	Checking for prerequisites
+17:39:32  [main] 	All prerequisites found
+17:39:32  [main] 	Initializing Modules
+17:39:32  [Apache] 	Problem detected: Apache Not Found!
+17:39:32  [Apache] 	Disabling Apache buttons
+17:39:32  [Apache] 	Run this program from your XAMPP root directory!
+17:39:32  [mysql] 	Problem detected: MySQL Not Found!
+17:39:32  [mysql] 	Disabling MySQL buttons
+17:39:32  [mysql] 	Run this program from your XAMPP root directory!
+17:39:32  [filezilla] 	Problem detected: FileZilla Not Found!
+17:39:32  [filezilla] 	Disabling FileZilla buttons
+17:39:32  [filezilla] 	Run this program from your XAMPP root directory!
+17:39:33  [mercury] 	Problem detected: Mercury Not Found!
+17:39:33  [mercury] 	Disabling Mercury buttons
+17:39:33  [mercury] 	Run this program from your XAMPP root directory!
+17:39:33  [Tomcat] 	Problem detected: Tomcat Not Found!
+17:39:33  [Tomcat] 	Disabling Tomcat buttons
+17:39:33  [Tomcat] 	Run this program from your XAMPP root directory!
+17:39:33  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+17:39:33  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+17:39:33  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+17:39:33  [main] 	Starting Check-Timer
+17:39:33  [main] 	Control Panel Ready
+17:39:38  [main] 	Deinitializing Modules
+17:39:38  [main] 	Deinitializing Control Panel
+
+14:32:37  [main] 	Initializing Control Panel
+14:32:40  [main] 	Windows Version:  Home  64-bit
+14:32:40  [main] 	XAMPP Version: 8.2.12
+14:32:40  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+14:32:40  [main] 	You are not running with administrator rights! This will work for
+14:32:41  [main] 	most application stuff but whenever you do something with services
+14:32:41  [main] 	there will be a security dialogue or things will break! So think 
+14:32:41  [main] 	about running this application with administrator rights!
+14:32:41  [main] 	XAMPP Installation Directory: "c:\users\mayur\onedrive\desktop\get it\"
+14:32:41  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+14:32:42  [main] 	Checking for prerequisites
+14:32:58  [main] 	All prerequisites found
+14:32:59  [main] 	Initializing Modules
+14:32:59  [main] 	The FileZilla module is disabled
+14:33:00  [main] 	The Mercury module is disabled
+14:33:00  [main] 	The Tomcat module is disabled
+14:33:00  [main] 	Starting Check-Timer
+14:33:01  [main] 	Control Panel Ready
+14:33:56  [Apache] 	Status change detected: running
+C:\xampp\htdocs\14:56:58  [Apache] 	Status change detected: stopped
+14:56:58  [Apache] 	Error: Apache shutdown unexpectedly.
+14:56:58  [Apache] 	This may be due to a blocked port, missing dependencies, 
+14:56:58  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+14:56:58  [Apache] 	Press the Logs button to view error logs and check
+14:56:58  [Apache] 	the Windows Event Viewer for more clues
+14:56:58  [Apache] 	If you need more help, copy and post this
+14:56:58  [Apache] 	entire log window on the forums
+17:40:18  [main] 	Deinitializing Modules
+17:40:18  [main] 	Deinitializing Control Panel
+
